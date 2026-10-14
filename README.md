@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I’m a stats student and engineering intern who loves clean data, good maps, and solving real‑world problems in water systems and sports analytics. I build things that help people make smarter decisions.
 <!--
 **Cgwilly09/Cgwilly09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
